@@ -1,0 +1,1 @@
+f"https://maps.hereapi.com/v3/base/mc/{{z}}/{{x}}/{{y}}/png8?style=satellite.day&apiKey={HERE_API_KEY}" #podkladowa satelitarna api here
